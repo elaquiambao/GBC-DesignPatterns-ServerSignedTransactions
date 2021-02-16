@@ -2,7 +2,7 @@ GBC-Design Patterns in Blockchain
 ===================================
 ### Lab4 - Server Signed Transactions
 
-Goals:
+Goal:
 * Create express app
 * Connect to web3
 * Get contract object
